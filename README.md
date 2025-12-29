@@ -1,23 +1,50 @@
-# Artificial Intelligence Projects Portfolio
-
-## About Me
-I am a school student with a strong interest in Artificial Intelligence and Computer Science. 
-My academic background includes Mathematics, Physics, Chemistry, English, and Artificial Intelligence.
-This repository documents my journey in learning AI and applying it to real-world problems.
-
-## Skills
-- Python
-- Machine Learning
-- Data Analysis
-- Problem Solving
-- Ethical AI
-
-## Project Categories
-- Beginner AI Projects
-- Intermediate AI Projects
-- Advanced AI Projects
-
-## Goals
-To pursue an undergraduate degree in Computer Science / Artificial Intelligence at a leading UK university.
-
-
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "84a16292-643c-45bb-873c-97c92f2fd652",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Smart Study Assistant\n",
+    "\n",
+    "## Description\n",
+    "A rule-based AI program that helps students decide which subject to study first\n",
+    "based on difficulty level.\n",
+    "\n",
+    "## AI Concept Used\n",
+    "Rule-based decision making.\n",
+    "\n",
+    "## Skills Used\n",
+    "- Python\n",
+    "- Logical thinking\n",
+    "\n",
+    "## Future Improvements\n",
+    "- Add study hours\n",
+    "- Add machine learning\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
